@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b37860c-0da8-4f6a-a93d-56c4395b9a1e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y7D74a7AbLnG8fA2aiTAU1CfGW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.codenation" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.codenation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.codenation.Principal" />
+      <module name="java-1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.codenation.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b37860c-0da8-4f6a-a93d-56c4395b9a1e" name="Default Changelist" comment="" />
+      <created>1582284568945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582284568945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582554169095">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582554169095" />
+    <state x="491" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1582429339917">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582394573620" />
+    <state x="491" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1582286228581" />
+    <state x="491" y="116" key="#com.intellij.ide.util.MemberChooser/1366.0.1360.768/0.27.1366.741@0.27.1366.741" timestamp="1582429339917" />
+    <state x="440" y="283" width="486" height="248" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582554139814">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="440" y="283" width="486" height="248" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582554139814" />
+    <state width="1320" height="278" key="GridCell.Tab.0.bottom" timestamp="1582554671305">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="278" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582554671305" />
+    <state width="1320" height="214" key="GridCell.Tab.0.bottom/1366.0.1360.768/0.27.1366.741@0.27.1366.741" timestamp="1582431557534" />
+    <state width="1320" height="278" key="GridCell.Tab.0.center" timestamp="1582554671305">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="278" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582554671305" />
+    <state width="1320" height="214" key="GridCell.Tab.0.center/1366.0.1360.768/0.27.1366.741@0.27.1366.741" timestamp="1582431557534" />
+    <state width="1320" height="278" key="GridCell.Tab.0.left" timestamp="1582554671305">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="278" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582554671305" />
+    <state width="1320" height="214" key="GridCell.Tab.0.left/1366.0.1360.768/0.27.1366.741@0.27.1366.741" timestamp="1582431557534" />
+    <state width="1320" height="278" key="GridCell.Tab.0.right" timestamp="1582554671305">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="278" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582554671305" />
+    <state width="1320" height="214" key="GridCell.Tab.0.right/1366.0.1360.768/0.27.1366.741@0.27.1366.741" timestamp="1582431557534" />
+    <state width="1320" height="278" key="GridCell.Tab.1.bottom" timestamp="1582554671306">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="278" key="GridCell.Tab.1.bottom/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582554671306" />
+    <state width="1320" height="278" key="GridCell.Tab.1.bottom/1366.0.1360.768/0.27.1366.741@0.27.1366.741" timestamp="1582431557529" />
+    <state width="1320" height="278" key="GridCell.Tab.1.center" timestamp="1582554671305">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="278" key="GridCell.Tab.1.center/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582554671305" />
+    <state width="1320" height="278" key="GridCell.Tab.1.center/1366.0.1360.768/0.27.1366.741@0.27.1366.741" timestamp="1582431557529" />
+    <state width="1320" height="278" key="GridCell.Tab.1.left" timestamp="1582554671305">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="278" key="GridCell.Tab.1.left/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582554671305" />
+    <state width="1320" height="278" key="GridCell.Tab.1.left/1366.0.1360.768/0.27.1366.741@0.27.1366.741" timestamp="1582431557529" />
+    <state width="1320" height="278" key="GridCell.Tab.1.right" timestamp="1582554671305">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="278" key="GridCell.Tab.1.right/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582554671305" />
+    <state width="1320" height="278" key="GridCell.Tab.1.right/1366.0.1360.768/0.27.1366.741@0.27.1366.741" timestamp="1582431557529" />
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582554764372">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582554764372" />
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog/1366.0.1360.768/0.27.1366.741@0.27.1366.741" timestamp="1582426408599" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582403147033">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1582403147033" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_1$Principal.ic" NAME="Principal Coverage Results" MODIFIED="1582514477517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.codenation.exceptions.*</FILTER>
+    </SUITE>
+  </component>
+</project>

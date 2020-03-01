@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="594ea46d-9732-459a-8ab5-77115238b3b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1XfccZ5trEX1lipr95mODgDHQzU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-0" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CalculadoraSalarioTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;br.com.codenation.calculadora.CalculadoraSalarioTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CalculadoraSalarioTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="594ea46d-9732-459a-8ab5-77115238b3b5" name="Default Changelist" comment="" />
+      <created>1581440669646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581440669646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1581444917093">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1581444917093" />
+    <state width="1320" height="159" key="GridCell.Tab.0.bottom" timestamp="1581444826775">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="159" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1581444826775" />
+    <state width="1320" height="159" key="GridCell.Tab.0.center" timestamp="1581444826775">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="159" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1581444826775" />
+    <state width="1320" height="159" key="GridCell.Tab.0.left" timestamp="1581444826774">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="159" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1581444826774" />
+    <state width="1320" height="159" key="GridCell.Tab.0.right" timestamp="1581444826775">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="159" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1581444826775" />
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581444860992">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1581444860992" />
+    <state x="1574" y="167" width="990" height="497" maximized="true" key="dock-window-1" timestamp="1581442686381">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state x="1574" y="167" width="990" height="497" maximized="true" key="dock-window-1/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1581442686381" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1581443408591">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1581443408591" />
+  </component>
+</project>
