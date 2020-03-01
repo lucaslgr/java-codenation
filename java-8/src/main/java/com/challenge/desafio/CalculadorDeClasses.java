@@ -60,7 +60,7 @@ public class CalculadorDeClasses implements Calculavel{
                 } catch (IllegalAccessException e) {
                     e.printStackTrace();
                 }
-                sum.add(valueField);
+                sum = sum.add(valueField);
             }
         }
         return sum;
