@@ -4,6 +4,7 @@ import com.challenge.annotation.Somar;
 import com.challenge.annotation.Subtrair;
 import com.challenge.interfaces.Calculavel;
 
+import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 import java.math.BigDecimal;
 import java.util.ArrayList;
@@ -11,13 +12,13 @@ import java.util.Arrays;
 import java.util.List;
 
 public class CalculadorDeClasses implements Calculavel{
-
     @Override
     public BigDecimal somar(Object o) {
         List<Field> fieldsList = getFieldsWithAnnotation(o, Somar.class);
         if (fieldsList.isEmpty())
             return BigDecimal.ZERO;
-        return sumAllValuesOfFields(o, fieldsList);
+        else
+            return sumAllValuesOfFields(o, fieldsList);
     }
 
     @Override
@@ -25,7 +26,8 @@ public class CalculadorDeClasses implements Calculavel{
         List<Field> fieldsList = getFieldsWithAnnotation(o, Subtrair.class);
         if (fieldsList.isEmpty())
             return BigDecimal.ZERO;
-        return sumAllValuesOfFields(o, fieldsList);
+        else
+            return sumAllValuesOfFields(o, fieldsList);
     }
 
     @Override
@@ -35,7 +37,7 @@ public class CalculadorDeClasses implements Calculavel{
 
     //<Private Methods>
     //Retorna os campos do objeto passado no primeiro parâmetro com a notação especficada no segundo parâmetro
-    private List<Field> getFieldsWithAnnotation(Object o, Class annotation) {
+    private List<Field> getFieldsWithAnnotation(Object o, Class<? extends Annotation> annotation) {
         List<Field> fieldsWithAnnotion = new ArrayList<>();
         Arrays.stream(o.getClass().getDeclaredFields()).forEach(f -> {
             f.setAccessible(true); //Tornando o campo acessível caso seja privado
@@ -53,9 +55,10 @@ public class CalculadorDeClasses implements Calculavel{
             if(f.getType().isAssignableFrom(BigDecimal.class)) //Checando se o campo é do tipo BigDecimal
             {
                 try {
+                    f.setAccessible(true); //Tornando o campo acessível caso seja privado
                     valueField = (BigDecimal) f.get(o);
                 } catch (IllegalAccessException e) {
-                    throw new RuntimeException(e);
+                    e.printStackTrace();
                 }
                 sum.add(valueField);
             }
