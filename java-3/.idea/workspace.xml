@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce95f9ee-1fe1-42dc-9818-42464d18c8f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../git-1" beforeDir="false" afterPath="$PROJECT_DIR$/../git-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/challenge.MainTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/challenge.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/challenge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-challenge.MainTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +61,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.Tests in 'java-3.test'">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="challenge.Main" />
       <module name="java-3.main" />
@@ -63,6 +74,26 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="MainTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;challenge.MainTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="Tests in 'java-3.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -86,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MainTest" />
         <item itemvalue="Gradle.Tests in 'java-3.test'" />
         <item itemvalue="Application.Main" />
       </list>
@@ -113,29 +145,55 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="420" y="233" width="515" height="336" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583034432955" />
-    <state x="291" y="27" width="773" height="741" key="CommitChangelistDialog2" timestamp="1583033671840">
+    <state x="291" y="27" width="773" height="741" key="CommitChangelistDialog2" timestamp="1583100392434">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="291" y="27" width="773" height="741" key="CommitChangelistDialog2/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583033671840" />
-    <state width="1320" height="2" key="GridCell.Tab.0.bottom" timestamp="1583035356620">
+    <state x="291" y="27" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1583100392434" />
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom" timestamp="1583102138552">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="2" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583035356620" />
-    <state width="1320" height="2" key="GridCell.Tab.0.center" timestamp="1583035356620">
+    <state width="1320" height="169" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583084918257" />
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1583102138552" />
+    <state width="1320" height="215" key="GridCell.Tab.0.center" timestamp="1583102138551">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="2" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583035356620" />
-    <state width="1320" height="2" key="GridCell.Tab.0.left" timestamp="1583035356620">
+    <state width="1320" height="169" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583084918257" />
+    <state width="1320" height="215" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1583102138551" />
+    <state width="1320" height="215" key="GridCell.Tab.0.left" timestamp="1583102138551">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="2" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583035356620" />
-    <state width="1320" height="2" key="GridCell.Tab.0.right" timestamp="1583035356620">
+    <state width="1320" height="169" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583084918256" />
+    <state width="1320" height="215" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1583102138551" />
+    <state width="1320" height="215" key="GridCell.Tab.0.right" timestamp="1583102138552">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="2" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583035356620" />
-    <state x="343" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583030382532">
+    <state width="1320" height="169" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583084918257" />
+    <state width="1320" height="215" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1583102138552" />
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom" timestamp="1583102138553">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="343" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583030382532" />
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1583102138553" />
+    <state width="1320" height="215" key="GridCell.Tab.1.center" timestamp="1583102138553">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1583102138553" />
+    <state width="1320" height="215" key="GridCell.Tab.1.left" timestamp="1583102138553">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1583102138553" />
+    <state width="1320" height="215" key="GridCell.Tab.1.right" timestamp="1583102138553">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1583102138553" />
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583096117978">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583064478661" />
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1583096117978" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583065747761">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741/1366.0.1360.768@0.27.1366.741" timestamp="1583065747761" />
   </component>
 </project>

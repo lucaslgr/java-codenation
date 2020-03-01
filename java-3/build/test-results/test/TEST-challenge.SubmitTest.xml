@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.SubmitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-03-01T22:23:03" hostname="wolf-debian" time="1.806">
+  <properties/>
+  <testcase name="q1" classname="challenge.SubmitTest" time="0.561"/>
+  <testcase name="q2" classname="challenge.SubmitTest" time="0.247"/>
+  <testcase name="q3" classname="challenge.SubmitTest" time="0.256"/>
+  <testcase name="q4" classname="challenge.SubmitTest" time="0.245"/>
+  <testcase name="q5" classname="challenge.SubmitTest" time="0.235"/>
+  <testcase name="q6" classname="challenge.SubmitTest" time="0.261"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
