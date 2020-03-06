@@ -1,0 +1,349 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.challenge:spring-data-ddl >--------------------
+[INFO] Building spring-data-ddl 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:resources (default-resources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ spring-data-ddl ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 9 source files to /home/lucaslgr/codenation/java-9/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:testResources (default-testResources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/lucaslgr/codenation/java-9/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ spring-data-ddl ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 12 source files to /home/lucaslgr/codenation/java-9/target/test-classes
+[INFO] /home/lucaslgr/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: /home/lucaslgr/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java uses unchecked or unsafe operations.
+[INFO] /home/lucaslgr/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ spring-data-ddl ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.challenge.suite.ChallengeTestSuite
+23:58:53.933 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:53.978 [main] INFO org.reflections.Reflections - Reflections took 43 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.047 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.050 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.054 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.057 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.061 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.065 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.067 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.071 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.076 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.079 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.081 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.083 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.085 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.087 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.091 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.094 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.097 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.100 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.105 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.108 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.110 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.113 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.115 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.119 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.121 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.126 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.128 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.131 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.134 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.137 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.143 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.146 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.148 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.152 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.155 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.158 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.166 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.170 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.173 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.176 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.181 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.185 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.189 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.193 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.195 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.198 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.202 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.205 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.207 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.210 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.214 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.217 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.229 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.232 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.234 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.236 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.242 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.246 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.248 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.251 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.254 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.257 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.258 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.260 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.262 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.264 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.267 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.270 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.271 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.273 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.275 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.277 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.278 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.280 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.282 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.283 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.285 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.287 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.289 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.291 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.297 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.299 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.302 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.304 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.306 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.308 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.310 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.312 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.314 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.316 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.318 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.320 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.323 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.325 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.327 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.329 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.331 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.332 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.334 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.336 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.338 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.340 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.341 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.342 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.343 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.344 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.346 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.348 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.349 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.351 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.352 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.354 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.355 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.357 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.359 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.361 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.362 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.364 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.366 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.369 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.371 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.373 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.375 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.377 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.379 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.381 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.384 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.386 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.387 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.389 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.391 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.401 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.402 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.403 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.404 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.405 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.407 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.409 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.410 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.412 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.413 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.414 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.416 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.417 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.419 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.420 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.421 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.425 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.426 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.428 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.429 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.430 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.436 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.437 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.438 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.440 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.441 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.442 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.444 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.445 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.447 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.449 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.450 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.452 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.453 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.455 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.456 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.458 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.459 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.461 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.462 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.464 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.465 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.467 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.469 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.470 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.471 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.473 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.474 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.475 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.477 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.477 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.478 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.479 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.482 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.483 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.484 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.486 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.487 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.488 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.489 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.491 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.492 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.493 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.495 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.496 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.497 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.498 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.499 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.501 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+23:58:54.502 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/lucaslgr/codenation/java-9/target/classes/
+23:58:54.503 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 18 values 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.769 s - in com.challenge.suite.ChallengeTestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  6.147 s
+[INFO] Finished at: 2020-03-05T23:58:54-03:00
+[INFO] ------------------------------------------------------------------------
